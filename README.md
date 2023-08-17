@@ -4,7 +4,7 @@
 - 👯 I’m currently looking for a data analysis position.
 - 📫 How to reach me **drakecoy@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oQHEnybue2PSPHpLcOL7DyrXJuWOcTbA/edit?usp=sharing&ouid=105913535075666942483&rtpof=true&sd=true](Resume)
+- 📄 Know about my experiences [https://tinyurl.com/DrakeCoyResume](https://tinyurl.com/DrakeCoyResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

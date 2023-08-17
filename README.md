@@ -1,5 +1,7 @@
-<h1 align="center">Hello There! I'm Drake</h1>
-<h3 align="center">An enthusiastic team leader with a passion for sailing and data analysis.</h3>
+<h1 align="center">⛵ Hello There, I'm Drake! 🖥️</h1>
+<h3 align="center">An enthusiastic team leader with a passion for sailing and data analysis. </h3>
+
+<p alighn="left">I recently graduated from the University of California, San Diego, with a B.S. in Cognitive Science (specializing in machine learning and neural computation) and a minor in Data Science. I'm driven to contribute my interdisciplinary expertise to cutting-edge projects while remaining at the forefront of impactful conversations.</p>
 
 - 👯 I’m currently looking for a data analysis position in the San Diego area.
 - 📫 How to reach me **drakecoy@gmail.com**

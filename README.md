@@ -6,7 +6,7 @@
 - 👯 I’m currently looking for a data analysis position in the San Diego area.
 - 📫 How to reach me **drakecoy@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/DrakeCoysResume](https://tinyurl.com/DrakeCoysResume)
+- 📄 Know about my experiences [https://tinyurl.com/DrakeCoysResume](https://tinyurl.com/DrakeCoysResume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
